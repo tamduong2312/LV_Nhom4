@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/Download/thu vien/thu vien/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Download/thu vien/thu vien/javase-3.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Download/thu vien/thu vien/jbcrypt-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Download/thu vien/thu vien/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Download/thu vien/thu vien/TimeChooserCIR1.jar"/>
+	<classpathentry kind="lib" path="D:/Download/DuongVanMinhTam-DH52111704/DuongVanMinhTam-DH52111704/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Download/DuongVanMinhTam-DH52111704/DuongVanMinhTam-DH52111704/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Download/Java Programming/Java Programming/lib/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="D:/Download/commons-lang3-3.20.0-bin/commons-lang3-3.20.0/commons-lang3-3.20.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Download/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Download/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Download/itextpdf-5.5.13.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
