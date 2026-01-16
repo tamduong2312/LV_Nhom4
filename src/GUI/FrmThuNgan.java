@@ -103,6 +103,7 @@ public class FrmThuNgan extends JFrame {
             for (BenhNhan bn : listbn) {
                 if (bn.getMaBenhNhan() == nvs.getMaBenhNhan()) {
                     sdt = bn.getSDT()+"";
+                           tenbn = bn.getHoTen();
                     break; 
                 }
             }
